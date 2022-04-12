@@ -14,7 +14,7 @@ export default function App() {
       <div className="App">
         <p>
           문제 : datepicker 컴포넌트에서 선택한 값을인 postdata 상태값에 넣지
-          못하는 상황
+          못하는 상황 수정
         </p>
         <DatePicker
           selected={startDate}
